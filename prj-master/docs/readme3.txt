@@ -1,0 +1,4 @@
+Supported languages:
+
+English
+French
